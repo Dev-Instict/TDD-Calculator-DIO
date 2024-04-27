@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4C5BE9-D898-43FF-9E1A-FE3B5626AD68}|TestNewTalent\\TestNewTalent.csproj|d:\\pessoal\\estudo\\dio\\bootcamp q.a\\testsc#\\newtalent\\testnewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C5BE9-D898-43FF-9E1A-FE3B5626AD68}|TestNewTalent\\TestNewTalent.csproj|solutionrelative:testnewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F795F849-FDCA-471C-BA76-726B06D0ACED}|NewTalent\\NewTalent.csproj|d:\\pessoal\\estudo\\dio\\bootcamp q.a\\testsc#\\newtalent\\newtalent\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F795F849-FDCA-471C-BA76-726B06D0ACED}|NewTalent\\NewTalent.csproj|solutionrelative:newtalent\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F795F849-FDCA-471C-BA76-726B06D0ACED}|NewTalent\\NewTalent.csproj|d:\\pessoal\\estudo\\dio\\bootcamp q.a\\testsc#\\newtalent\\newtalent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F795F849-FDCA-471C-BA76-726B06D0ACED}|NewTalent\\NewTalent.csproj|solutionrelative:newtalent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\TestNewTalent\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestNewTalent\\UnitTest1.cs",
+              "ToolTip": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\TestNewTalent\\UnitTest1.cs",
+              "RelativeToolTip": "TestNewTalent\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:23:44.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\NewTalent\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewTalent\\Calculadora.cs",
+              "ToolTip": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\NewTalent\\Calculadora.cs",
+              "RelativeToolTip": "NewTalent\\Calculadora.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwDIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:26:44.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\NewTalent\\Program.cs",
+              "RelativeDocumentMoniker": "NewTalent\\Program.cs",
+              "ToolTip": "D:\\Pessoal\\Estudo\\Dio\\Bootcamp Q.A\\TestsC#\\NewTalent\\NewTalent\\Program.cs",
+              "RelativeToolTip": "NewTalent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:19:28.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

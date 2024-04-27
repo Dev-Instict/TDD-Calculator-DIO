@@ -1,0 +1,14 @@
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\bin\Debug\net8.0\NewTalent.exe
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\bin\Debug\net8.0\NewTalent.deps.json
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\bin\Debug\net8.0\NewTalent.runtimeconfig.json
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\bin\Debug\net8.0\NewTalent.dll
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\bin\Debug\net8.0\NewTalent.pdb
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfoInputs.cache
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfo.cs
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.csproj.CoreCompileInputs.cache
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.dll
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\refint\NewTalent.dll
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.pdb
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\NewTalent.genruntimeconfig.cache
+D:\Pessoal\Estudo\Dio\Bootcamp Q.A\TestsC#\NewTalent\NewTalent\obj\Debug\net8.0\ref\NewTalent.dll
